@@ -19,3 +19,7 @@ iframe {
   display:block;
   margin:auto;
 }
+
+@media print {
+    .pagebreak { page-break-before: always; }
+}
