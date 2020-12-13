@@ -1,0 +1,16 @@
+h1, h2, h3 {
+  font-family: ‘Arial Black’, Gadget, sans-serif;;
+}
+
+a {
+  font-family: 'Arial', Gadget, sans-serif;;
+}
+
+body {
+  background-image: url(https://img.freepik.com/vector-gratis/elegante-fondo-blanco-lineas-brillantes_1017-17580.jpg?size=626&ext=jpg);
+}
+
+img {
+  display:block;
+  margin:auto;
+}
